@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 65.5%;
+}
+
+#content{
+display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+#title{
+margin-top: 2rem;
+
+}
+
+.alphabet{
+    font-size: 3rem;
+    margin-top: 5rem;
+   /* color: blue;*/
+   /*background-color: orange;*/
+   /* border-radius: 35%*/
+
+}
+
+#afficherLettre{
+    margin-top: 6rem;
+    font-size: 3rem;
+}
+
+#word{
+    font-size:5rem;
+}
